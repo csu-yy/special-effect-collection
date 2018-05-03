@@ -1,0 +1,22 @@
+{
+  "name": "special-effect-collection",
+  "version": "1.0.0",
+  "description": "各种小效果集锦",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/csu-yy/special-effect-collection.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "skyeGao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csu-yy/special-effect-collection/issues"
+  },
+  "homepage": "https://github.com/csu-yy/special-effect-collection#readme"
+}
